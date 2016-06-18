@@ -1,0 +1,10 @@
+#忽略掉安卓工程的编译文件
+proj.android/bin
+proj.android/gen
+proj.android/obj
+
+
+#忽略编译的库文件和目标文件
+*.o
+*.d
+*.a

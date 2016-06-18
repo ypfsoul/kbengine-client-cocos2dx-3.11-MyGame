@@ -1,0 +1,1 @@
+sudo ctags -I __THROW --file-scope=yes --langmap=c:+.h --languages=c,c++ --links=yes --c-kinds=+p  --fields=+l -f ~/.vim/cocos2d.cocos.base.allocator.linux /home/ypf/workspace/cocos2dx/cocos2d-x-3.11-project/MyCppGame/cocos2d/cocos/base/allocator/
