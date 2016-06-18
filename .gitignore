@@ -1,4 +1,4 @@
-#忽略掉安卓工程的编译文件
+#忽略掉安卓工程的编译文件夹
 proj.android/bin
 proj.android/gen
 proj.android/obj
@@ -8,3 +8,9 @@ proj.android/obj
 *.o
 *.d
 *.a
+
+#忽略undo文件
+*.un~
+
+#忽略工程输出文件夹
+bin/
